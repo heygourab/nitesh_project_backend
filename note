@@ -1,0 +1,13 @@
+– FastAPI for building the REST API;
+– Uvicorn as the ASGI server;
+– scikit‐learn and pandas for ML;
+– joblib for serializing the model;
+– nltk for text preprocessing (e.g., stopwords).
+
+dataset
+Spambase (UCI) – 4,601 email records with 57 numeric features.
+
+SMS Spam Collection (UCI/Kaggle) – 5,574 SMS labeled ham/spam
+
+SMS Model Accuracy: 97.49%
+Email Model Accuracy: 96.81%
